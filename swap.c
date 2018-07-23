@@ -5,6 +5,7 @@ int main(void)
     int x = 34;
     int y = 50;
 	int z = 888;
+	int z = 999;
     
     printf("x is %i\n", x);
     printf("y is %i\n", y);
