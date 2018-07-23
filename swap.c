@@ -4,7 +4,7 @@ int main(void)
 {
     int x = 34;
     int y = 50;
-	int z = 999;
+	int z = 888;
     
     printf("x is %i\n", x);
     printf("y is %i\n", y);
