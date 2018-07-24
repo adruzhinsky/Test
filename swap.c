@@ -10,6 +10,8 @@ int main(void)
     int z = 2222222;
     int z = 77777;
     int z = 12357;	
+	int z = 35467;
+	int z = 3333333333;
     printf("x is %i\n", x);
     printf("y is %i\n", y);
     
