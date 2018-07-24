@@ -8,6 +8,7 @@ int main(void)
     int z = 999;
     int z = 10000;
 	int z = 3333333333;
+	int z = 555555555555;
     printf("x is %i\n", x);
     printf("y is %i\n", y);
     
